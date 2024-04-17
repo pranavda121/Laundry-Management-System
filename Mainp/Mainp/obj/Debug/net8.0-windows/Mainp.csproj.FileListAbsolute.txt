@@ -1,0 +1,113 @@
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.exe
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.deps.json
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.runtimeconfig.json
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form1.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.newreg.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Properties.Resources.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.student.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.GenerateResource.cache
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfoInputs.cache
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfo.cs
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.CoreCompileInputs.cache
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\refint\Mainp.dll
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.genruntimeconfig.cache
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\ref\Mainp.dll
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2studentlogin.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form3reg.resources
+C:\Users\PRAJWAL C\source\repos\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form4serviceprologin.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.exe
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.deps.json
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.runtimeconfig.json
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form1.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2studentlogin.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form3reg.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form4serviceprologin.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.newreg.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Properties.Resources.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.student.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.GenerateResource.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfoInputs.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfo.cs
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.CoreCompileInputs.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\refint\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.genruntimeconfig.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev\Mainp\Mainp\obj\Debug\net8.0-windows\ref\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.exe
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.deps.json
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.runtimeconfig.json
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form1.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2studentlogin.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form3reg.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form4serviceprologin.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.newreg.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Properties.Resources.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.student.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.GenerateResource.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfoInputs.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfo.cs
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.CoreCompileInputs.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\refint\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.pdb
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.genruntimeconfig.cache
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\ref\Mainp.dll
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Formstuorder.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form5orderplacestud.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form6servicemenu.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form7paymentgate.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form8feedback.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form10servicecheck.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form11feedbackview.resources
+C:\Users\PRAJWAL C\Desktop\temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form9studetailchange.resources
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.exe
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.deps.json
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.runtimeconfig.json
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Mainp.pdb
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form1.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form10servicecheck.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form11feedbackview.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form2studentlogin.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form3reg.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form4serviceprologin.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form5orderplacestud.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form6servicemenu.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form7paymentgate.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form8feedback.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Form9studetailchange.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Formstuorder.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.newreg.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.Properties.Resources.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.student.resources
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.GenerateResource.cache
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfoInputs.cache
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.AssemblyInfo.cs
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.CoreCompileInputs.cache
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.dll
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\refint\Mainp.dll
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.pdb
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.genruntimeconfig.cache
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\ref\Mainp.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Temp\prev - Copy\Mainp\Mainp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.AssemblyReference.cache
+F:\Temp\prev - Copy\Mainp\Mainp\obj\Debug\net8.0-windows\Mainp.csproj.Up2Date

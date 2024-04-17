@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Completed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10servicecheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11feedbackview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2studentlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4serviceprologin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5orderplacestud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6servicemenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7paymentgate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9studetailchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formstuorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="newreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="showprev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

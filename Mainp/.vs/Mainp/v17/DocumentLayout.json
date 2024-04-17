@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Temp\\prev - Copy\\Mainp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form4servicepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form4servicepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form3reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form3reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form5orderplacestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form5orderplacestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form5orderplacestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form5orderplacestud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form8feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form8feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\newreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\newreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\formstuorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\formstuorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form9studetailchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form9studetailchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form9studetailchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form9studetailchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form6servicemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form6servicemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\pending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\pending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form10servicecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form10servicecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form2studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form2studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form11feedbackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form11feedbackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form11feedbackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form11feedbackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form10servicecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form10servicecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\pending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\pending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\showprev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\showprev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\showprev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\showprev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form4serviceprologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form4serviceprologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form7paymentgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form7paymentgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form7paymentgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form7paymentgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|f:\\temp\\prev - copy\\mainp\\mainp\\form8feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804E6E2-14C5-430C-8FC4-6ED499DE6574}|Mainp\\Mainp.csproj|solutionrelative:mainp\\form8feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Temp\\prev - Copy\\Mainp\\Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prana\\.nuget\\packages\\oracle.manageddataaccess\\21.14.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Temp\\prev - Copy\\Mainp\\mainp\\obj\\x64\\debug\\net8.0-windows\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainp\\obj\\x64\\debug\\net8.0-windows\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Completed.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Completed.cs",
+              "RelativeDocumentMoniker": "Mainp\\Completed.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Completed.cs",
+              "RelativeToolTip": "Mainp\\Completed.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:56:09.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form9studetailchange.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form9studetailchange.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form9studetailchange.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form9studetailchange.cs",
+              "RelativeToolTip": "Mainp\\Form9studetailchange.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:14:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5orderplacestud.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form5orderplacestud.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form5orderplacestud.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form5orderplacestud.cs",
+              "RelativeToolTip": "Mainp\\Form5orderplacestud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsBAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:13:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form11feedbackview.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form11feedbackview.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form11feedbackview.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form11feedbackview.cs",
+              "RelativeToolTip": "Mainp\\Form11feedbackview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:04:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Completed.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Completed.cs",
+              "RelativeDocumentMoniker": "Mainp\\Completed.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Completed.cs [Design]",
+              "RelativeToolTip": "Mainp\\Completed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:55:54.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pending.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\pending.cs",
+              "RelativeDocumentMoniker": "Mainp\\pending.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\pending.cs",
+              "RelativeToolTip": "Mainp\\pending.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAvwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:53:34.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form10servicecheck.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form10servicecheck.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form10servicecheck.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form10servicecheck.cs",
+              "RelativeToolTip": "Mainp\\Form10servicecheck.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADgv1cAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:23:34.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "showprev.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\showprev.cs",
+              "RelativeDocumentMoniker": "Mainp\\showprev.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\showprev.cs",
+              "RelativeToolTip": "Mainp\\showprev.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAADgv2sAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:59.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\student.cs",
+              "RelativeDocumentMoniker": "Mainp\\student.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\student.cs [Design]",
+              "RelativeToolTip": "Mainp\\student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:09.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "showprev.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\showprev.cs",
+              "RelativeDocumentMoniker": "Mainp\\showprev.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\showprev.cs [Design]",
+              "RelativeToolTip": "Mainp\\showprev.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:07.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "pending.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\pending.cs",
+              "RelativeDocumentMoniker": "Mainp\\pending.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\pending.cs [Design]",
+              "RelativeToolTip": "Mainp\\pending.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:04.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "newreg.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\newreg.cs",
+              "RelativeDocumentMoniker": "Mainp\\newreg.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\newreg.cs [Design]",
+              "RelativeToolTip": "Mainp\\newreg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:01.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formstuorder.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Formstuorder.cs",
+              "RelativeDocumentMoniker": "Mainp\\Formstuorder.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Formstuorder.cs [Design]",
+              "RelativeToolTip": "Mainp\\Formstuorder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:59.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form9studetailchange.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form9studetailchange.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form9studetailchange.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form9studetailchange.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form9studetailchange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:54.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6servicemenu.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form6servicemenu.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form6servicemenu.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form6servicemenu.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form6servicemenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:50.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5orderplacestud.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form5orderplacestud.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form5orderplacestud.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form5orderplacestud.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form5orderplacestud.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:49.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form4serviceprologin.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form4serviceprologin.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form4serviceprologin.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form4serviceprologin.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form4serviceprologin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:48.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4servicepro.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form4servicepro.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form4servicepro.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form4servicepro.cs",
+              "RelativeToolTip": "Mainp\\Form4servicepro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3reg.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form3reg.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form3reg.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form3reg.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form3reg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:42.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2studentlogin.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form2studentlogin.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form2studentlogin.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form2studentlogin.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form2studentlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:41.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form2.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form2.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form2.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:41.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form11feedbackview.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form11feedbackview.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form11feedbackview.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form11feedbackview.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form11feedbackview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:40.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form10servicecheck.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form10servicecheck.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form10servicecheck.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form10servicecheck.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form10servicecheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:21:38.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form8feedback.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form8feedback.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form8feedback.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form8feedback.cs",
+              "RelativeToolTip": "Mainp\\Form8feedback.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAvwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:09:53.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8feedback.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form8feedback.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form8feedback.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form8feedback.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form8feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:07:28.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form7paymentgate.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form7paymentgate.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form7paymentgate.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form7paymentgate.cs",
+              "RelativeToolTip": "Mainp\\Form7paymentgate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:07:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form7paymentgate.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form7paymentgate.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form7paymentgate.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form7paymentgate.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form7paymentgate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:07:09.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form1.cs",
+              "RelativeDocumentMoniker": "Mainp\\Form1.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\Form1.cs [Design]",
+              "RelativeToolTip": "Mainp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:06:53.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\obj\\x64\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Mainp\\obj\\x64\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\obj\\x64\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Mainp\\obj\\x64\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:39:17.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Mainp.AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs",
+              "ToolTip": "F:\\Temp\\prev - Copy\\Mainp\\Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs",
+              "RelativeToolTip": "Mainp\\obj\\x64\\Debug\\net8.0-windows\\Mainp.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:39:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\prana\\.nuget\\packages\\oracle.manageddataaccess\\21.14.0\\readme.txt",
+              "ToolTip": "C:\\Users\\prana\\.nuget\\packages\\oracle.manageddataaccess\\21.14.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T16:56:24.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
